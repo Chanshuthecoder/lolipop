@@ -1,2 +1,2 @@
 # lolipop
-Short video App
+Short video sharing app
